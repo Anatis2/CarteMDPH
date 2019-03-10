@@ -1,0 +1,68 @@
+* {
+    font-family: Century Gothic, sans-serif;
+}
+
+body {
+    width: 90%;
+    margin-left: 1%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text {
+    width: 60%;
+    margin-left: 20%;
+}
+
+h1 {
+  color: #A01461;
+  text-align: center;
+}
+
+h2 {
+  color: #A01461;
+  text-align: center; 
+}
+
+p {
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.mapAndInfo {
+    margin-left: 12%;
+}
+
+.map {
+    display: inline-block;
+    float: left;
+    margin-right: 40px;
+}
+
+.infos {
+    width: 30%;
+    display: inline-block;
+    margin-right: 2%;
+}
+
+.titreCoord {
+
+}
+
+.infoCoord {
+
+}
+
+.lienCoord {
+
+}
+
+.paragrapheBackground {
+    background-color: antiquewhite;
+    padding: 15px;
+}
+
+[id*='depart_'] {
+    cursor: pointer;
+}
